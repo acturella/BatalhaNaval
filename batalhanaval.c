@@ -20,7 +20,7 @@ int main ()
     int ponto = 0; // variavel dos pontos
     
     printf ( "Informe seu nome:" );
-    scanf ( " %s", &nome );
+    scanf ( " %s", nome );
     
     
     while ( saida == 1 )
